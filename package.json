@@ -1,0 +1,19 @@
+{
+  "name": "youtube-video-downloader",
+  "version": "1.0.0",
+  "description": "Website sederhana untuk mengunduh video YouTube menggunakan Node.js dan ytdl-core",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "ytdl-core": "^4.11.5"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "author": "Nama Anda",
+  "license": "MIT"
+}
